@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/DATA%20ANALYTICS-1F8A70?style=for-the-badge&labelColor=1F8A70&color=1F8A70" alt="Data Analytics">
 </p>
 
-<h3 align="left">WHAT I'M WORKING ON</h3>
+<h3 align="left">CURRENTLY BUILDING</h3>
 
 - 🔭 Financial operations and data analytics
 - 🌱 Advanced analytics, automation, and financial systems
