@@ -19,9 +19,9 @@
 
 <h3 align="left">MY EXPERIENCE</h3>
 
-- Financial operations across accounts payable and accounts receivable, with a focus on accurate reporting and efficient workflows.
-- Data analysis and ETL/ELT processes using Python and SQL.
-- API-driven data pipelines, Power BI dashboards, and data modeling for live operational reporting.
+- **Accounts Receivable Analyst & Collections Specialist** — Banking company, Credit Cards and Recovery departments.
+- **Accounts Receivable Analyst & Key Accounts Manager** — Healthcare company, Recovery and Risk department.
+- **Accounts Payable & Receivables Analyst** — Logistics company, Issue Resolution Team supporting worldwide operations.
 
 <h3 align="left">CURRENTLY BUILDING</h3>
 
