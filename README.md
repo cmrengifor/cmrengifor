@@ -26,7 +26,9 @@
 - 💬 Accounts payable, accounts receivable, Excel, SQL, Oracle, SAP, and NetSuite
 - ⚡ I turn finance workflows into clearer data stories.
 
-<h3 align="left">CORE SKILLS</h3>
+<h3 align="left">PRACTICAL TOOLKIT</h3>
+
+<p align="left">Tools I use to turn financial operations into reliable, actionable data.</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-1F8A70?style=for-the-badge&labelColor=1F8A70&color=1F8A70" alt="SQL">
