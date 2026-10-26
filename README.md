@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I connect financial operations with reliable data, automation, and clear reporting.
+  I use Python and SQL to analyze datasets and perform ETL/ELT processes. I build data pipelines with APIs to power Power BI dashboards and automate workflows that improve accuracy, enable live data feeds, and support data modeling.
 </p>
 
 <p align="center">
