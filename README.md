@@ -17,6 +17,12 @@
   <img src="https://img.shields.io/badge/DATA%20ANALYTICS-1F8A70?style=for-the-badge&labelColor=1F8A70&color=1F8A70" alt="Data Analytics">
 </p>
 
+<h3 align="left">MY EXPERIENCE</h3>
+
+- Financial operations across accounts payable and accounts receivable, with a focus on accurate reporting and efficient workflows.
+- Data analysis and ETL/ELT processes using Python and SQL.
+- API-driven data pipelines, Power BI dashboards, and data modeling for live operational reporting.
+
 <h3 align="left">CURRENTLY BUILDING</h3>
 
 - 🔭 Financial operations and data analytics
@@ -26,7 +32,7 @@
 - 💬 Accounts payable, accounts receivable, Excel, SQL, Oracle, SAP, and NetSuite
 - ⚡ I turn finance workflows into clearer data stories.
 
-<h3 align="left">PRACTICAL TOOLKIT</h3>
+<h3 align="left">WHAT I WORK WITH</h3>
 
 <p align="left">Tools I use to turn financial operations into reliable, actionable data.</p>
 
@@ -38,6 +44,27 @@
   <img src="https://img.shields.io/badge/NETSUITE-1F8A70?style=for-the-badge&labelColor=1F8A70&color=1F8A70" alt="NetSuite">
   <img src="https://img.shields.io/badge/PYTHON-F28C28?style=for-the-badge&labelColor=F28C28&color=F28C28" alt="Python">
 </p>
+
+<h3 align="left">FOCUS AREAS</h3>
+
+- Financial operations and process automation
+- Accounts payable and accounts receivable analytics
+- Data pipelines, ETL/ELT, and API integration
+- Power BI dashboards and data modeling
+- Accuracy, controls, and live data feeds
+
+<h3 align="left">LINKS</h3>
+
+<p align="left">
+  <a href="https://github.com/cmrengifor">
+    <img src="https://img.shields.io/badge/GITHUB-1F8A70?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+  </a>
+</p>
+
+<h3 align="left">PROJECTS</h3>
+
+- **Finance Data Pipeline** — API-driven ETL/ELT workflows designed to deliver operational data to Power BI.
+- **Automated Finance Reporting** — Python and SQL workflows focused on improving accuracy and reducing manual work.
 
 <h3 align="left">GITHUB ACTIVITY</h3>
 
