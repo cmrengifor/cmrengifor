@@ -54,11 +54,14 @@
 
 <h3 align="left">FOCUS AREAS</h3>
 
-- Finance Operations Analyst
-- Data Analyst
-- Billing Analyst
-- Business Analyst
-- Accounts Payable & Receivables Analyst
+- Financial Operations
+- Accounts Payable & Accounts Receivable
+- Billing & Collections
+- Credit Risk Management
+- Data Analysis & Business Intelligence
+- Process Automation
+- ETL/ELT & Data Pipelines
+- Power BI Reporting & Data Modeling
 
 <h3 align="left">LINKS</h3>
 
