@@ -25,12 +25,10 @@
 
 <h3 align="left">CURRENTLY BUILDING</h3>
 
-- 🔭 Financial operations and data analytics
-- 🌱 Advanced analytics, automation, and financial systems
-- 👯 Finance automation and analytics projects
-- 🤝 Practical reporting and finance workflow tools
-- 💬 Accounts payable, accounts receivable, Excel, SQL, Oracle, SAP, and NetSuite
-- ⚡ I turn finance workflows into clearer data stories.
+- 🔭 Invoice Chaser system
+- 🛡️ Invoicing Fraud Protection system
+- 📊 Credit Risk Management and Alerting system
+- 💰 Cash Application Controller system
 
 <h3 align="left">WHAT I WORK WITH</h3>
 
