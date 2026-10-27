@@ -66,9 +66,6 @@
 <p align="left">Personal brand links coming soon.</p>
 
 <p align="left">
-  <a href="https://github.com/cmrengifor">
-    <img src="https://img.shields.io/badge/GITHUB-1F8A70?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
-  </a>
   <img src="https://img.shields.io/badge/LINKEDIN%20%7C%20COMING%20SOON-F28C28?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn coming soon">
   <img src="https://img.shields.io/badge/X%20%7C%20COMING%20SOON-1F8A70?style=for-the-badge&logo=x&logoColor=white" alt="X coming soon">
   <img src="https://img.shields.io/badge/INSTAGRAM%20%7C%20COMING%20SOON-F28C28?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram coming soon">
