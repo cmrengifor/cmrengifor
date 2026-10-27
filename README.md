@@ -30,7 +30,7 @@
 - 📊 Credit Risk Management and Alerting system
 - 💰 Cash Application Controller system
 
-<h3 align="left">WHAT I WORK WITH</h3>
+<h3 align="left">TOOLS &amp; TECHNOLOGIES</h3>
 
 <p align="left">Tools and techniques I use to turn financial operations into reliable, actionable data.</p>
 
@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/APIs-F28C28?style=for-the-badge&labelColor=F28C28&color=F28C28" alt="APIs">
   <img src="https://img.shields.io/badge/ETL%2FELT-1F8A70?style=for-the-badge&labelColor=1F8A70&color=1F8A70" alt="ETL and ELT">
   <img src="https://img.shields.io/badge/DATA%20MODELING-F28C28?style=for-the-badge&labelColor=F28C28&color=F28C28" alt="Data Modeling">
-  <img src="https://img.shields.io/badge/BASIC%20PYTHON-1F8A70?style=for-the-badge&labelColor=1F8A70&color=1F8A70" alt="Basic Python">
   <img src="https://img.shields.io/badge/PANDAS-F28C28?style=for-the-badge&labelColor=F28C28&color=F28C28" alt="Pandas">
   <img src="https://img.shields.io/badge/LANGCHAIN-1F8A70?style=for-the-badge&labelColor=1F8A70&color=1F8A70" alt="LangChain">
   <img src="https://img.shields.io/badge/TESTING%20%26%20DEBUGGING%20LOGIC-F28C28?style=for-the-badge&labelColor=F28C28&color=F28C28" alt="Testing and Debugging Logic">
