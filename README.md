@@ -55,11 +55,11 @@
 
 <h3 align="left">FOCUS AREAS</h3>
 
-- Financial operations and process automation
-- Accounts payable and accounts receivable analytics
-- Data pipelines, ETL/ELT, and API integration
-- Power BI dashboards and data modeling
-- Accuracy, controls, and live data feeds
+- Finance Operations Analyst
+- Data Analyst
+- Billing Analyst
+- Business Analyst
+- Accounts Payable & Receivables Analyst
 
 <h3 align="left">LINKS</h3>
 
